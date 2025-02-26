@@ -1,3 +1,3 @@
 # Pygame Weather App
 
-## vER 1.0.0
+## VER 1.0.0
